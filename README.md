@@ -1,2 +1,3 @@
-# e2e-demo-proposal
-End-to-end test
+# Demo from agent
+
+This repo was created via OpenKickstart.
